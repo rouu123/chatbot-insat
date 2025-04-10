@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+pinecone-client
+streamlit
+langchain-ollama
+langchain-community
+
+
+
+
+
